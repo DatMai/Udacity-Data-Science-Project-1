@@ -1,11 +1,14 @@
 # Udacity-Data-Science-Project-1
-Udacity Data Science Project 1: Write a Data Science Blog post
-How data will make you cinema savvy
-Installations
-NumPy
-Pandas
-Seaborn
-Matplotlib
+##Udacity Data Science Project 1: Write a Data Science Blog post
+
+##How data will make you cinema savvy
+
+###Installations
+
+- NumPy
+- Pandas
+- Seaborn
+- Matplotlib
 
 Project Motivation
 I’m a movie buff; I’ve always been immersed in movies. I love them so much that I want my life to be like one of those movies one day. And today, I’m going to do an analysis of the top movies in the world to help people answer these questions:
