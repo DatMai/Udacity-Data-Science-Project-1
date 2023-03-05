@@ -21,6 +21,7 @@ I want to analyze movies to be able to convey this to the film-loving community 
 
 ### File Descriptions
 Udacity-Data-Science-Project-1.ipynb: contains my code and logic for the analysis and visualization of the movies data
+
 movies-tmdb-10000.csv: [Data from Kaggle](https://www.kaggle.com/datasets/i0xc0d3x00000/tmdb-10000-movies-dataset)
 
 ### Medium Blog Post
