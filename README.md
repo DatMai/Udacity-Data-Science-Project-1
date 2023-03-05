@@ -1,5 +1,6 @@
 # Udacity-Data-Science-Project-1
 ## Write a Data Science Blog post - How data will make you cinema savvy
+![jack-reacher-star-wars-interstellar-movie-john-wick-wallpaper-preview](https://user-images.githubusercontent.com/74104677/222970254-7356e809-8161-4089-9bdb-e72b8ca47295.jpg)
 
 ### Installations
 
